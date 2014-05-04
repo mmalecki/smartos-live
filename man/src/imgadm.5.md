@@ -1,0 +1,1 @@
+src/img/man/imgadm.5.md
